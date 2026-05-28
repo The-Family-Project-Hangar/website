@@ -1,0 +1,11 @@
+locale = "en"
+label = "English"
+weight = 1
+
+title = "The Family Project Hangar"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  description = "A family maker channel documenting projects in home automation, aviation, model railroading, holiday lighting, and more."

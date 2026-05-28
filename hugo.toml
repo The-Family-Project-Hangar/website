@@ -1,0 +1,9 @@
+baseURL = 'https://hangar.theroeders.net/'
+locale = 'en-us'
+title = 'The Family Project Hangar'
+theme = 'blowfish'
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
